@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Tangerine Growth Hacks"
+theme = "custom"
+
+[params]
+  description = "Growth hacking tactics for startups and scaleups: viral loops, referral programs, and rapid experiments."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5

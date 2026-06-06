@@ -1,4 +1,9 @@
 ---
+image: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&h=450&fit=crop&auto=format&q=80"
+cover:
+  image: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&h=450&fit=crop&auto=format&q=80"
+  alt: "cover"
+  relative: false
 title: "Welcome to Tangerine Growth Hacks"
 date: 2026-06-01
 description: "Growth hacking tactics for startups and scaleups: viral loops, referral programs, and rapid experiments."
